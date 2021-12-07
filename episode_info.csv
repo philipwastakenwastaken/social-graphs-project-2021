@@ -1,114 +1,114 @@
 ,name,book,book_number,episode_number,series
 0,The Boy in the Iceberg,Water,1,1,1
-1,The Avatar Returns,Water,1,1,1
-2,The Southern Air Temple,Water,1,1,1
-3,The Warriors of Kyoshi,Water,1,1,1
-4,The King of Omashu,Water,1,1,1
-5,Imprisoned,Water,1,1,1
-6,"Winter Solstice, Part 1: The Spirit World",Water,1,1,1
-7,"Winter Solstice, Part 2: Avatar Roku",Water,1,1,1
-8,The Waterbending Scroll,Water,1,1,1
-9,Jet,Water,1,1,1
-10,The Great Divide,Water,1,1,1
-11,The Storm,Water,1,1,1
-12,The Blue Spirit,Water,1,1,1
-13,The Fortuneteller,Water,1,1,1
-14,Bato of the Water Tribe,Water,1,1,1
-15,The Deserter,Water,1,1,1
-16,The Northern Air Temple,Water,1,1,1
-17,The Waterbending Master,Water,1,1,1
-18,"The Siege of the North, Part 1",Water,1,1,1
-19,"The Siege of the North, Part 2",Water,1,1,1
-20,The Avatar State,Earth,2,1,1
-21,The Cave of Two Lovers,Earth,2,1,1
-22,Return to Omashu,Earth,2,1,1
-23,The Swamp,Earth,2,1,1
-24,Avatar Day,Earth,2,1,1
-25,The Blind Bandit,Earth,2,1,1
-26,Zuko Alone,Earth,2,1,1
-27,The Chase,Earth,2,1,1
-28,Bitter Work,Earth,2,1,1
-29,The Library,Earth,2,1,1
-30,The Desert,Earth,2,1,1
-31,The Serpent's Pass,Earth,2,1,1
-32,The Drill,Earth,2,1,1
-33,City of Walls and Secrets,Earth,2,1,1
-34,The Tales of Ba Sing Se,Earth,2,1,1
-35,Appa's Lost Days,Earth,2,1,1
-36,Lake Laogai,Earth,2,1,1
-37,The Earth King,Earth,2,1,1
-38,The Guru,Earth,2,1,1
-39,The Crossroads of Destiny,Earth,2,1,1
-40,The Awakening,Fire,3,1,1
-41,The Headband,Fire,3,1,1
-42,The Painted Lady,Fire,3,1,1
-43,Sokka's Master,Fire,3,1,1
-44,The Beach,Fire,3,1,1
-45,The Avatar and the Fire Lord,Fire,3,1,1
-46,The Runaway,Fire,3,1,1
-47,The Puppetmaster,Fire,3,1,1
-48,Nightmares and Daydreams,Fire,3,1,1
-49,"The Day of Black Sun, Part 1: The Invasion",Fire,3,1,1
-50,"The Day of Black Sun, Part 2: The Eclipse",Fire,3,1,1
-51,The Western Air Temple,Fire,3,1,1
-52,The Firebending Masters,Fire,3,1,1
-53,"The Boiling Rock, Part 1",Fire,3,1,1
-54,"The Boiling Rock, Part 2",Fire,3,1,1
-55,The Southern Raiders,Fire,3,1,1
-56,The Ember Island Players,Fire,3,1,1
-57,"Sozin's Comet, Part 1: The Phoenix King",Fire,3,1,1
-58,"Sozin's Comet, Part 2: The Old Masters",Fire,3,1,1
-59,"Sozin's Comet, Part 3: Into the Inferno",Fire,3,1,1
-60,"Sozin's Comet, Part 4: Avatar Aang",Fire,3,1,1
-61,Welcome to Republic City,Air,1,1,2
-62,A Leaf in the Wind,Air,1,1,2
-63,The Revelation,Air,1,1,2
-64,The Voice in the Night,Air,1,1,2
-65,The Spirit of Competition,Air,1,1,2
-66,And the Winner Is...,Air,1,1,2
-67,The Aftermath,Air,1,1,2
-68,When Extremes Meet,Air,1,1,2
-69,Out of the Past,Air,1,1,2
-70,Turning the Tides,Air,1,1,2
-71,Skeletons in the Closet,Air,1,1,2
-72,Endgame,Air,1,1,2
-73,Rebel Spirit,Spirits,2,1,2
-74,The Southern Lights,Spirits,2,1,2
-75,"Civil Wars, Part 1",Spirits,2,1,2
-76,"Civil Wars, Part 2",Spirits,2,1,2
-77,Peacekeepers,Spirits,2,1,2
-78,The Sting,Spirits,2,1,2
-79,"Beginnings, Part 1",Spirits,2,1,2
-80,"Beginnings, Part 2",Spirits,2,1,2
-81,The Guide,Spirits,2,1,2
-82,A New Spiritual Age,Spirits,2,1,2
-83,Night of a Thousand Stars,Spirits,2,1,2
-84,Harmonic Convergence,Spirits,2,1,2
-85,Darkness Falls,Spirits,2,1,2
-86,Light in the Dark,Spirits,2,1,2
-87,A Breath of Fresh Air,Change,3,1,2
-88,Rebirth,Change,3,1,2
-89,The Earth Queen,Change,3,1,2
-90,In Harm's Way,Change,3,1,2
-91,The Metal Clan,Change,3,1,2
-92,Old Wounds,Change,3,1,2
-93,Original Airbenders,Change,3,1,2
-94,The Terror Within,Change,3,1,2
-95,The Stakeout,Change,3,1,2
-96,Long Live the Queen,Change,3,1,2
-97,The Ultimatum,Change,3,1,2
-98,Enter the Void,Change,3,1,2
-99,Venom of the Red Lotus,Change,3,1,2
-100,After All These Years,Balance,4,1,2
-101,Korra Alone,Balance,4,1,2
-102,The Coronation,Balance,4,1,2
-103,The Calling,Balance,4,1,2
-104,Enemy at the Gates,Balance,4,1,2
-105,The Battle of Zaofu,Balance,4,1,2
-106,Reunion,Balance,4,1,2
-107,Remembrances,Balance,4,1,2
-108,Beyond the Wilds,Balance,4,1,2
-109,Operation Beifong,Balance,4,1,2
-110,Kuvira's Gambit,Balance,4,1,2
-111,Day of the Colossus,Balance,4,1,2
-112,The Last Stand,Balance,4,1,2
+1,The Avatar Returns,Water,1,2,1
+2,The Southern Air Temple,Water,1,3,1
+3,The Warriors of Kyoshi,Water,1,4,1
+4,The King of Omashu,Water,1,5,1
+5,Imprisoned,Water,1,6,1
+6,"Winter Solstice, Part 1: The Spirit World",Water,1,7,1
+7,"Winter Solstice, Part 2: Avatar Roku",Water,1,8,1
+8,The Waterbending Scroll,Water,1,9,1
+9,Jet,Water,1,10,1
+10,The Great Divide,Water,1,11,1
+11,The Storm,Water,1,12,1
+12,The Blue Spirit,Water,1,13,1
+13,The Fortuneteller,Water,1,14,1
+14,Bato of the Water Tribe,Water,1,15,1
+15,The Deserter,Water,1,16,1
+16,The Northern Air Temple,Water,1,17,1
+17,The Waterbending Master,Water,1,18,1
+18,"The Siege of the North, Part 1",Water,1,19,1
+19,"The Siege of the North, Part 2",Water,1,20,1
+20,The Avatar State,Earth,2,21,1
+21,The Cave of Two Lovers,Earth,2,22,1
+22,Return to Omashu,Earth,2,23,1
+23,The Swamp,Earth,2,24,1
+24,Avatar Day,Earth,2,25,1
+25,The Blind Bandit,Earth,2,26,1
+26,Zuko Alone,Earth,2,27,1
+27,The Chase,Earth,2,28,1
+28,Bitter Work,Earth,2,29,1
+29,The Library,Earth,2,30,1
+30,The Desert,Earth,2,31,1
+31,The Serpent's Pass,Earth,2,32,1
+32,The Drill,Earth,2,33,1
+33,City of Walls and Secrets,Earth,2,34,1
+34,The Tales of Ba Sing Se,Earth,2,35,1
+35,Appa's Lost Days,Earth,2,36,1
+36,Lake Laogai,Earth,2,37,1
+37,The Earth King,Earth,2,38,1
+38,The Guru,Earth,2,39,1
+39,The Crossroads of Destiny,Earth,2,40,1
+40,The Awakening,Fire,3,41,1
+41,The Headband,Fire,3,42,1
+42,The Painted Lady,Fire,3,43,1
+43,Sokka's Master,Fire,3,44,1
+44,The Beach,Fire,3,45,1
+45,The Avatar and the Fire Lord,Fire,3,46,1
+46,The Runaway,Fire,3,47,1
+47,The Puppetmaster,Fire,3,48,1
+48,Nightmares and Daydreams,Fire,3,49,1
+49,"The Day of Black Sun, Part 1: The Invasion",Fire,3,50,1
+50,"The Day of Black Sun, Part 2: The Eclipse",Fire,3,51,1
+51,The Western Air Temple,Fire,3,52,1
+52,The Firebending Masters,Fire,3,53,1
+53,"The Boiling Rock, Part 1",Fire,3,54,1
+54,"The Boiling Rock, Part 2",Fire,3,55,1
+55,The Southern Raiders,Fire,3,56,1
+56,The Ember Island Players,Fire,3,57,1
+57,"Sozin's Comet, Part 1: The Phoenix King",Fire,3,58,1
+58,"Sozin's Comet, Part 2: The Old Masters",Fire,3,59,1
+59,"Sozin's Comet, Part 3: Into the Inferno",Fire,3,60,1
+60,"Sozin's Comet, Part 4: Avatar Aang",Fire,3,61,1
+61,Welcome to Republic City,Air,1,62,2
+62,A Leaf in the Wind,Air,1,63,2
+63,The Revelation,Air,1,64,2
+64,The Voice in the Night,Air,1,65,2
+65,The Spirit of Competition,Air,1,66,2
+66,And the Winner Is...,Air,1,67,2
+67,The Aftermath,Air,1,68,2
+68,When Extremes Meet,Air,1,69,2
+69,Out of the Past,Air,1,70,2
+70,Turning the Tides,Air,1,71,2
+71,Skeletons in the Closet,Air,1,72,2
+72,Endgame,Air,1,73,2
+73,Rebel Spirit,Spirits,2,74,2
+74,The Southern Lights,Spirits,2,75,2
+75,"Civil Wars, Part 1",Spirits,2,76,2
+76,"Civil Wars, Part 2",Spirits,2,77,2
+77,Peacekeepers,Spirits,2,78,2
+78,The Sting,Spirits,2,79,2
+79,"Beginnings, Part 1",Spirits,2,80,2
+80,"Beginnings, Part 2",Spirits,2,81,2
+81,The Guide,Spirits,2,82,2
+82,A New Spiritual Age,Spirits,2,83,2
+83,Night of a Thousand Stars,Spirits,2,84,2
+84,Harmonic Convergence,Spirits,2,85,2
+85,Darkness Falls,Spirits,2,86,2
+86,Light in the Dark,Spirits,2,87,2
+87,A Breath of Fresh Air,Change,3,88,2
+88,Rebirth,Change,3,89,2
+89,The Earth Queen,Change,3,90,2
+90,In Harm's Way,Change,3,91,2
+91,The Metal Clan,Change,3,92,2
+92,Old Wounds,Change,3,93,2
+93,Original Airbenders,Change,3,94,2
+94,The Terror Within,Change,3,95,2
+95,The Stakeout,Change,3,96,2
+96,Long Live the Queen,Change,3,97,2
+97,The Ultimatum,Change,3,98,2
+98,Enter the Void,Change,3,99,2
+99,Venom of the Red Lotus,Change,3,100,2
+100,After All These Years,Balance,4,101,2
+101,Korra Alone,Balance,4,102,2
+102,The Coronation,Balance,4,103,2
+103,The Calling,Balance,4,104,2
+104,Enemy at the Gates,Balance,4,105,2
+105,The Battle of Zaofu,Balance,4,106,2
+106,Reunion,Balance,4,107,2
+107,Remembrances,Balance,4,108,2
+108,Beyond the Wilds,Balance,4,109,2
+109,Operation Beifong,Balance,4,110,2
+110,Kuvira's Gambit,Balance,4,111,2
+111,Day of the Colossus,Balance,4,112,2
+112,The Last Stand,Balance,4,113,2
